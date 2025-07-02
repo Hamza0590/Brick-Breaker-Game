@@ -81,7 +81,30 @@ Points awarded for each brick destroyed. High scores are stored using **file han
 
 ---
 
-## 📜 License
+## 🕹️ How to Play
+**Dowload and open the project folder in Ubuntu and double click on the Game option.**
+- **Objective**: Use the paddle(s) to bounce the ball and break all the bricks on the screen. Clear all levels without losing your lives!
 
-This project is for academic purposes only.
+### 🎮 Controls
+
+- **Bottom Paddle**: Move using **mouse drag** (left/right).
+- **Upper Paddle (Level 3 only)**: Move using **keyboard keys**:
+  - `W` – Move left
+  - `R` – Move right
+
+### 🔄 Game Flow
+
+1. Start the game from the main menu.
+2. Use the paddle to bounce the ball toward the bricks.
+3. Break all bricks to progress to the next level.
+4. Catch power-ups or avoid power-downs to gain advantages or face challenges.
+5. Lose a life if the ball falls off the screen. Each level starts with 2 lives.
+6. Game ends when all lives are lost or all levels are cleared.
+
+### 💡 Tips
+
+- Catch **green** and **blue** power-ups to make the game easier.
+- Avoid **pink** and **red** power-downs as they shrink the paddle or increase ball speed.
+- Use the **yellow** power-up strategically for multi-ball action.
+
 
