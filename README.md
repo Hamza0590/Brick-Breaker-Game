@@ -1,6 +1,6 @@
 # 🎮 Arkadriod Brick Breaker Game
 
-A modern C++ implementation of the classic brick breaker arcade game developed as a semester project for Object Oriented Programming (CS1004).
+A modern C++ implementation of the classic brick breaker arcade game.
 
 ## 🧠 Objective
 
@@ -58,12 +58,6 @@ Points awarded for each brick destroyed. High scores are stored using **file han
 - 2 lives per level
 - Game ends if ball falls from **any** paddle (Level 3)
 
-### 📁 Save/Load Functionality *(Bonus)*
-- Resume game from the saved state
-- Save includes name, score, level, and paddle/ball state
-
----
-
 ## 🧪 Technical Details
 
 ### 🧱 Essential Classes
@@ -72,21 +66,11 @@ Points awarded for each brick destroyed. High scores are stored using **file han
 - `Paddle`
 - `Food` (for Power-Ups)
 
-### 🧼 Code Structure
-- No global functions allowed
-- Only **one** global variable permitted
-- Must follow strict OOP principles
-- Use of **polymorphism**, **copy constructors**, and **separate `.h/.cpp` files** encouraged
-
----
-
 ## 💡 Bonus Features
 - Ball changes color to match brick it hits
 - Paddle changes color to match ball after collision
 - Score and Roll number shown on canvas
-- Game resume functionality
-- Proper use of OOP techniques like polymorphism
-
+- 
 ---
 
 ## 🧑‍💻 Development
@@ -94,13 +78,6 @@ Points awarded for each brick destroyed. High scores are stored using **file han
 - **Language**: C++
 - **Tools**: OpenGL / GLUT
 - **Environment**: Ubuntu / Visual Studio / Eclipse
-
----
-
-## 📂 Submission Instructions
-
-- All project files must be zipped and named as: `ROLLNUMBER-SECTION.zip`
-- Submit only via **Google Classroom**
 
 ---
 
